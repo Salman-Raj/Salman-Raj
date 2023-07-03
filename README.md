@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **MERN,Database**
+- 💬 Ask me about **App Development**
 
 - 📫 How to reach me **msraj9664@gmail.com**
 
