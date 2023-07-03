@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D5616AQGSLWkcia0yQg/profile-displaybackgroundimage-shrink_350_1400/0/1665684217828?e=1678924800&v=beta&t=_v4_4-WAc9hMcrUz9oPOtLlHnkBv8j5_3Aw3Zc_Njno)](https://github.com/Salman-Raj/Salman-Raj)
+
 <h1 align="center">Hi 👋, I'm Salman Raju Makireddy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img  align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
